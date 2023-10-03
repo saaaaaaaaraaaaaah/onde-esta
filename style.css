@@ -1,0 +1,47 @@
+body{
+
+    background-color: rgb(199, 230, 23);
+    margin: 0;
+
+
+    background: rgb(246,245,185);
+background: radial-gradient(circle, rgba(246,245,185,0.7707457983193278) 6%, rgba(229,233,30,1) 23%, rgba(241,255,0,0.8015581232492998) 83%);
+}
+
+
+.cabecalho{
+
+    background-color: rgb(132, 146, 5);
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+
+
+    text-shadow: 2px 2px rgb(48, 49, 1);
+
+}
+
+.principal{
+
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.pudim{
+    width: 450px;
+    border-radius: 50%;
+}
+
+.rodape{
+    background-color: rgb(132, 146, 5);
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+
+    text-shadow: 2px 2px rgb(48, 49, 1);
+}
